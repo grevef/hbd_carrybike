@@ -17,7 +17,9 @@ client_script {
 }
 
 server_script {
+    'modules/server/server_core.lua',
     'modules/server/server_prints.lua',
+
 }
 
 dependencies {
