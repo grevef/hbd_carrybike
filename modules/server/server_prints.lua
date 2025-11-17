@@ -1,6 +1,6 @@
 local Console = {
 	resourceName = 'hbd_carrybike',
-	resourceVersion = '1.0.2'
+	resourceVersion = '1.0.3'
 }
 
 CreateThread(function()
